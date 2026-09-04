@@ -1,0 +1,21 @@
+Copyright (c) 2026 Olexify. All rights reserved.
+
+Kitsumi is not open source.
+
+This repository contains the project's documentation and issue tracker.
+The extension's source code is not published here.
+
+No permission is granted to copy, modify, merge, publish, distribute,
+sublicense, sell, reverse engineer, or create derivative works from any
+part of Kitsumi -- including the compiled extension package distributed
+through the Chrome Web Store and addons.mozilla.org -- in whole or in
+part, without prior written permission from the copyright holder.
+
+The fact that a browser extension package is readable once installed or
+downloaded does not place its contents in the public domain and does not
+grant any license to reuse them.
+
+Documentation in this repository (README and other Markdown files) may be
+quoted for review, commentary, and reporting purposes with attribution.
+
+For licensing enquiries, contact: olexifyyy@gmail.com
